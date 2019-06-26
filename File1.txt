@@ -2,6 +2,10 @@ This is my first git...welcome to giy singham...!!!!
 
 class HelloGit
 {
+	showDate()
+	{
+	sysout("date");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Hello git");
