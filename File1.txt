@@ -2,12 +2,15 @@ This is my first git...welcome to giy singham...!!!!
 
 class HelloGit
 {
-	showDate()
+
+
+
+	hellogit()
 	{
-	sysout("date");
+		Syso("Hello Git ....welcome!!!!")
 	}
 	public static void main(String args[])
 	{
-		System.out.println("Hello git");
+		
 	}
 }
