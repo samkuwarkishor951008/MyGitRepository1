@@ -5,13 +5,13 @@ class HelloGit
 
 
 
-	hellogit()
+	public static final void hellogit(string str)
 	{
 		Syste.out.println("Hello Git ....welcome!!!!")
 	}
 	public static void main(String args[])
 	{
 		HelloGit obj=new HelloGit();
-		objhelloGit();
+		objhelloGit("hello");
 	}
 }
