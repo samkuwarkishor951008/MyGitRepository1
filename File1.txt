@@ -7,10 +7,11 @@ class HelloGit
 
 	hellogit()
 	{
-		Syso("Hello Git ....welcome!!!!")
+		Syste.out.println("Hello Git ....welcome!!!!")
 	}
 	public static void main(String args[])
 	{
-		
+		HelloGit obj=new HelloGit();
+		objhelloGit();
 	}
 }
