@@ -5,15 +5,15 @@ class HelloGit
 
 
 
-	hellogit()
+	static void hellogit()
 	{
 		Syste.out.println("Hello Git ....welcome!!!!")
 	}
 	public static void main(String args[])
 	{
-		HelloGit obj=new HelloGit();
+		
 		objhelloGit();
 	}
 	void myBigMethod()
-{}
+	{}
 }
