@@ -19,6 +19,8 @@ class HelloGit
 
 
 	}
-	void myBigMethod()
-	{}
+	public static void myBigMethod()
+	{
+		
+	}
 }
